@@ -1,0 +1,5 @@
+kagglehub
+dotenv
+roboflow
+opencv-python
+inference
